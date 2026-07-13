@@ -52,4 +52,8 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
