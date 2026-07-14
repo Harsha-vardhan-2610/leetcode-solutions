@@ -32,6 +32,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3945-digit-frequency-score](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
