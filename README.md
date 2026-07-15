@@ -49,6 +49,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
@@ -58,4 +59,8 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
