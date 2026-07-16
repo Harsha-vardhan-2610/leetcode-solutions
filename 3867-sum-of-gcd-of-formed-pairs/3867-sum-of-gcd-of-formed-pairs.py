@@ -1,9 +1,5 @@
 class Solution:
     def gcdSum(self, nums: list[int]) -> int:
-        def gcd(a, b):
-            if b == 0:
-                return a
-            return gcd(b, a % b)
         n = len(nums)
         narr = []
         m = nums[0]
