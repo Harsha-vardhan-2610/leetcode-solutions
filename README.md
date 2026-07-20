@@ -24,6 +24,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -99,4 +100,8 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
