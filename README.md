@@ -25,6 +25,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -49,6 +50,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
@@ -63,6 +65,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
