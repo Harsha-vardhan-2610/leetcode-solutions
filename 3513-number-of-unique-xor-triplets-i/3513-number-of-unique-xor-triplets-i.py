@@ -1,3 +1,4 @@
 class Solution:
     def uniqueXorTriplets(self, nums: List[int]) -> int:
-        return 2 ** len(bin(max(nums))[2:]) if len(nums) > 2 else len(nums)
+        n = len(nums)
+        return 2 ** len(bin(max(nums))[2:]) if n > 2 else n
