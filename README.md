@@ -25,6 +25,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -60,6 +61,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -96,6 +98,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
