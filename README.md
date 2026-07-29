@@ -34,6 +34,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3668-restore-finishing-order](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -42,6 +43,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3668-restore-finishing-order](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
