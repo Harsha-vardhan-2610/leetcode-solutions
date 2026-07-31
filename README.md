@@ -131,6 +131,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3110-score-of-a-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Heap (Priority Queue)
