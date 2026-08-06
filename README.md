@@ -77,6 +77,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -95,6 +96,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
