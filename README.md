@@ -33,6 +33,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -100,6 +101,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -159,6 +161,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## String
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
