@@ -31,6 +31,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0877-stone-game](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -165,6 +166,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Prefix Sum
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
@@ -176,6 +178,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
