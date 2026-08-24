@@ -1,11 +1,18 @@
 class Solution:
     def minOperations(self, boxes: str) -> List[int]:
-        a = []
-        for i in range(len(boxes)):
-            c = 0
-            for j in range(len(boxes)):
-                if boxes[j] == '1':
-                    c += abs(i - j)
-                if j == len(boxes) - 1:
-                    a.append(c)
-        return a
+        n = len(boxes)
+        ans = [0] * n
+        cost = 0
+        right = 0
+        for i in range(n):
+            if boxes[i] == '1':
+                cost += i
+                right += 1
+        left = 0       
+        for i in range(n):
+            ans[i] = cost
+            if boxes[i] == '1':
+                left += 1
+                right -= 1
+            cost += left - right
+        return ans
