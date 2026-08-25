@@ -3,7 +3,6 @@ class Solution:
         n = set(nums)
         i = 1
         while True:
-            if i % k == 0:
-                if i not in n:
-                    return i
+            if i * k not in n:
+                return i * k
             i += 1
