@@ -34,6 +34,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -117,6 +118,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
