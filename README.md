@@ -228,6 +228,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Linked List
 |  |
 | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Sliding Window
 |  |
