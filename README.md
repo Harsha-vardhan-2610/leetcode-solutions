@@ -48,6 +48,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -74,6 +75,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3668-restore-finishing-order](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -114,6 +116,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
