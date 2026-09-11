@@ -50,6 +50,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -77,6 +78,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -152,6 +154,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1291-sequential-digits](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
@@ -242,6 +245,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
