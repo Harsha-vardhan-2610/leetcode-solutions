@@ -109,6 +109,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -277,4 +278,8 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
