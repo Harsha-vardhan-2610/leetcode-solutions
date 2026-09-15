@@ -50,6 +50,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -123,6 +124,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
