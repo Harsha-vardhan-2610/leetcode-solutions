@@ -82,6 +82,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -206,6 +207,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1512-number-of-good-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
