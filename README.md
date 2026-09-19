@@ -134,6 +134,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3516-find-closest-person](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
