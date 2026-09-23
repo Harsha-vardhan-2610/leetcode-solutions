@@ -186,6 +186,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0015-3sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0015-3sum) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -247,6 +248,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
 |  |
