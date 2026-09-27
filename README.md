@@ -244,6 +244,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
