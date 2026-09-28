@@ -244,6 +244,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -310,4 +311,12 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
