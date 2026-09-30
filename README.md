@@ -100,6 +100,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
