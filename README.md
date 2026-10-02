@@ -239,12 +239,14 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0771-jewels-and-stones](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -307,6 +309,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -321,5 +324,6 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
