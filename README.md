@@ -243,12 +243,14 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0032-longest-valid-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -279,6 +281,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -323,11 +326,13 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
