@@ -49,6 +49,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
