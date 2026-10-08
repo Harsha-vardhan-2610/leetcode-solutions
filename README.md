@@ -254,6 +254,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -331,6 +332,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0032-longest-valid-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -339,5 +341,6 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0032-longest-valid-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
