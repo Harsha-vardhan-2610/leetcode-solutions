@@ -71,6 +71,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3701-compute-alternating-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -217,6 +218,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3467-transform-array-by-parity](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -301,6 +303,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
