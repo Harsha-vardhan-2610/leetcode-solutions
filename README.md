@@ -371,4 +371,20 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
