@@ -30,6 +30,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -89,6 +90,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -311,6 +313,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
