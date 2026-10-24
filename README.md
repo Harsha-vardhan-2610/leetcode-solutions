@@ -148,6 +148,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2235-add-two-integers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -292,6 +293,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
