@@ -85,6 +85,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -126,6 +127,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
@@ -278,6 +281,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0486-predict-the-winner](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0877-stone-game) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
