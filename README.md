@@ -37,6 +37,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1470-shuffle-the-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1720-decode-xored-array) |
@@ -233,6 +234,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
