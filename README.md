@@ -53,6 +53,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -139,6 +140,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -152,6 +154,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1512-number-of-good-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2235-add-two-integers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -305,6 +308,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1816-truncate-sentence](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
