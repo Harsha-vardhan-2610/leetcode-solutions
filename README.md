@@ -26,6 +26,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | ------- |
 | [0015-3sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0877-stone-game) |
@@ -147,6 +148,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0836-rectangle-overlap) |
