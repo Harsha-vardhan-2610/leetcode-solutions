@@ -86,6 +86,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -184,6 +185,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3870-count-commas-in-range) |
