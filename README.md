@@ -34,6 +34,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -231,6 +232,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0015-3sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -243,6 +245,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -259,6 +262,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
