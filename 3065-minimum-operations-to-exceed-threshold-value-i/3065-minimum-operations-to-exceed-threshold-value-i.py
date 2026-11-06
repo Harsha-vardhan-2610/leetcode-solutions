@@ -1,7 +1,8 @@
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
-        nums.sort()
-        for i in range(len(nums)):
-            if nums[i] >= k:
-                return i
-        return 0
+        l = len(nums)
+        c = l
+        for i in range(l):
+            if nums[i] >=  k:
+                c -= 1
+        return c
