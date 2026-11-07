@@ -35,6 +35,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -199,6 +200,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1929-concatenation-of-array) |
