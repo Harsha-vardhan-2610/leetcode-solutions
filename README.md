@@ -161,6 +161,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0836-rectangle-overlap](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -204,6 +205,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1603-design-parking-system) |
+| [1688-count-of-matches-in-tournament](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
