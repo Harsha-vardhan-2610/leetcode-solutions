@@ -39,6 +39,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1476-subrectangle-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -149,6 +150,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1476-subrectangle-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -454,5 +456,6 @@ Improve problem-solving skills and prepare for software engineering interviews.
 ## Design
 |  |
 | ------- |
+| [1476-subrectangle-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
