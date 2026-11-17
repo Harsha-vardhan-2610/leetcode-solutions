@@ -77,6 +77,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
