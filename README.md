@@ -33,6 +33,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [0877-stone-game](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
