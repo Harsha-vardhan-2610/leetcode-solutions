@@ -183,6 +183,7 @@ Improve problem-solving skills and prepare for software engineering interviews.
 | [2409-count-days-spent-together](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harsha-vardhan-2610/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
