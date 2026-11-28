@@ -1,8 +1,6 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
-        c = 0
-        m = 0
-
+        c, m = 0, 0
         for ch in s:
             if ch == '(':
                 c += 1
